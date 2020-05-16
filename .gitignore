@@ -1,1 +1,16 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+*.zip
+# Eclipse #
+.settings/
+.classpath
+.project
+
+
+/vue
 /unpackage
+*/vue
